@@ -9,6 +9,13 @@
     "webpack",
     "webpack plugin"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maoyonglong/outputs-webpack-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maoyonglong/outputs-webpack-plugin/issues"
+  },
   "devDependencies": {
     "webpack": "^4.29.0",
     "webpack-cli": "^3.2.1"
