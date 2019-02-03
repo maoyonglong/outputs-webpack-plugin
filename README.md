@@ -135,7 +135,7 @@ module.exports = {
 };
 ```
 The result of output is:  
-![special](/images/special.jpg)  
+![special](./images/special.jpg)  
 Now use the common option to achieve the same result.
 ```js
 ...
@@ -204,4 +204,4 @@ module.exports = {
 };
 ```
 The result is :  
-![eliminate](/images/eliminate.jpg)
+![eliminate](./images/eliminate.jpg)
